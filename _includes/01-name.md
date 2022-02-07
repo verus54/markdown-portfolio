@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+#### Skills
+
+- Language Acquisition
+- Programming:
+- - Python
+- - Java
+- - C
