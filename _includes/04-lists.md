@@ -2,6 +2,6 @@
 
 - Language Acquisition
 - Programming:
-- - Python
-- - Java
-- - C
+     * Python
+     * Java
+     * C
