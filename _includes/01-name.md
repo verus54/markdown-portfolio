@@ -1,7 +1,2 @@
-#### Skills
-
-- Language Acquisition
-- Programming:
-- - Python
-- - Java
-- - C
+# MAIN
+## Portfolio
