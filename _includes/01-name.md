@@ -1,1 +1,10 @@
-Replace this with your name, and include a header.
+# MAIN
+## Portfolio
+
+#### Skills
+
+- Language Acquisition
+- Programming:
+- - Python
+- - Java
+- - C
