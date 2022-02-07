@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+#### Skills
+
+- Language Acquisition
+- Programming:
+- - Python
+- - Java
+- - C
